@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+backend/uploads/*
+evaluation/results/*.json
+.DS_Store
+backend/tests/*

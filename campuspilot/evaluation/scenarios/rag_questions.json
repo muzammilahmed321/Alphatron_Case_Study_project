@@ -1,0 +1,28 @@
+{
+  "in_scope": [
+    {
+      "question": "What is a primary key?",
+      "keywords": ["uniquely identifies", "unique", "cannot be null"]
+    },
+    {
+      "question": "What does First Normal Form require?",
+      "keywords": ["atomic", "repeating groups", "single value"]
+    },
+    {
+      "question": "What is the difference between an INNER JOIN and a LEFT JOIN?",
+      "keywords": ["matching", "left table", "null"]
+    },
+    {
+      "question": "What does the A in ACID stand for?",
+      "keywords": ["atomicity", "all operations", "none"]
+    },
+    {
+      "question": "Why do indexes slow down inserts?",
+      "keywords": ["maintained", "slow", "updates"]
+    }
+  ],
+  "out_of_scope": [
+    "What is the capital of France?",
+    "Who won the 2018 football World Cup?"
+  ]
+}
