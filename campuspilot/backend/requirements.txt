@@ -5,3 +5,4 @@ python-multipart
 pypdf
 langgraph
 langchain-anthropic
+langchain-google-genai
